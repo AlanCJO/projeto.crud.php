@@ -1,5 +1,3 @@
-
-
 <?php
 require 'banco.php';
 //Acompanha os erros de validação
